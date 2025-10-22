@@ -66,7 +66,7 @@ export default function HowItWorks() {
         {/* Header */}
         <div className="text-center mb-16">
           <h2 className="text-4xl lg:text-5xl font-bold mb-6">
-            Como o ecossistema GRAN funciona na prática
+            Como o ecossistema GRAN funciona
           </h2>
         </div>
 
