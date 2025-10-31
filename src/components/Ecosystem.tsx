@@ -199,10 +199,10 @@ export default function Ecosystem() {
                 <Button 
                   size="lg" 
                   className="bg-gradient-to-r from-[#639652] to-cyan-500 hover:from-cyan-500 hover:to-[#639652] text-white px-8 py-6 text-xl font-bold rounded-2xl transition-all duration-300 transform hover:scale-105 hover:shadow-2xl group"
-                  onClick={() => window.open('https://api.whatsapp.com/send?1=pt_BR&phone=5546991039921', '_blank')}
+                  onClick={() => window.open('https://app.viasoftcrm.com.br/', '_blank')}
                 >
                   <Bell className="mr-2 group-hover:animate-pulse" size={20} />
-                  Quero fazer parte
+                  Acessar plataforma
                   <ArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" size={20} />
                 </Button>
               </motion.div>
